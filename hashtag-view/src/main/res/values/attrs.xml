@@ -36,6 +36,7 @@
             <enum name="center" value="17"/>
         </attr>
         <attr name="rowDistribution" format="enum">
+            <enum name="none" value="-1"/>
             <enum name="left" value="0"/>
             <enum name="middle" value="1"/>
             <enum name="right" value="2"/>
